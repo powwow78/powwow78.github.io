@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>파우와우의 블로그</title>
-    <link>http://localhost:1313/</link>
+    <link>https://powwow78.github.io/</link>
     <description>Recent content on 파우와우의 블로그</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Jun 2025 20:41:38 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jun 2025 21:25:15 +0900</lastBuildDate>
+    <atom:link href="https://powwow78.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>내 첫 번째 글</title>
+      <link>https://powwow78.github.io/posts/%EB%82%B4-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B8%80/</link>
+      <pubDate>Wed, 04 Jun 2025 21:25:15 +0900</pubDate>
+      <guid>https://powwow78.github.io/posts/%EB%82%B4-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B8%80/</guid>
+      <description>&lt;p&gt;처음으로 찐찐찐 최종으로 블로그를 만들었다. 전에 써본게 워드프레스, 지킬이 있다. 근데 워드프레스와 지킬은 뭔가 마음에 안들었는데 hugo로 넘어오니 이제야 완전히 마음이 편안하다. 사실 지금 나오고 있는 블로그가 8트만에 배포를 성공 한 것이다. 그리고 아직 마크다운 문법에 익숙하지 않기 때문에 당분간은 글이 투박할 예정이다.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://powwow78.github.io/posts/test/</link>
       <pubDate>Wed, 04 Jun 2025 20:41:38 +0900</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://powwow78.github.io/posts/test/</guid>
       <description>&lt;p&gt;test&#xA;&lt;strong&gt;test&lt;/strong&gt;&#xA;&lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-test&#34; data-lang=&#34;test&#34;&gt;test &#xA;&amp;lt;/pre&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
