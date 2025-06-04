@@ -1,0 +1,38 @@
+baseURL = 'https://powwow78.github.io'  # Your domain name.
+languageCode = 'en-US'
+title = '파우와우의 블로그'  # Title of your website
+theme = 'hugo-discaptive'
+[params]
+  github = 'https://github.com/powwow78'
+  username = 'powwow78'
+
+  # To enable giscus, the GitHub-discussions-based comment section,
+  # input the repository for the discussions below. For more details, see
+  # https://giscus.app
+  [params.giscus]
+  repo = "powwow78/powwow78.github.io"
+  repoId = "R_kgDOO15o6w"
+  category = "General"
+  categoryId = "DIC_kwDOO15o6w4CbvR9"
+  mapping = "pathname"
+  reactionsEnabled = "1"
+  inputPosition = "bottom"
+  theme = "light"
+  lang = "en"
+
+[pagination]
+  pagerSize = 5  # Specify the max number of rows to be returned in list
+
+# Menu items displayed in the header.
+[[menus.main]]
+  name = 'Contact'
+  url = 'mailto:doyulyang7@kakao.com'
+  weight = 1
+[[menus.main]]
+  name = 'Tags'
+  url = '/tags'
+  weight = 2
+[[menus.main]]
+  name = 'About'
+  url = '/about'
+  weight = 3
