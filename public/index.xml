@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>파우와우의 블로그</title>
-    <link>https://powwow78.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 파우와우의 블로그</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Jun 2025 21:25:15 +0900</lastBuildDate>
-    <atom:link href="https://powwow78.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jun 2025 12:40:15 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>깃허브 커스텀 도메인 연결하는 법</title>
+      <link>http://localhost:1313/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B2%95/</link>
+      <pubDate>Thu, 05 Jun 2025 12:40:15 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B2%95/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;깃허브에서 커스텀 도메인 연결하는 법&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;깃허브 페이지스에서 블로그를 만들면 커스텀 도메인을 연결하는 것이 가능하다. 우선 깃허브에서 자신의 레포로 들어간다. 그 후 &amp;ldquo;settings&amp;rdquo; 탭에 들어간 후 왼쪽 패널에서 &amp;ldquo;pages&amp;rdquo; 탭을 들어간다. 그곳에서 custom domain에 자신의 도메인을 입력한 후 기다린다. 그 때 레포에 &amp;ldquo;CNAME&amp;rdquo; 파일이 생겼는지 확인한다. 만약 생기지 않았다면 상단에 add files - create a new file에서 CNAME 이름으로 파일을 만들어서 내용에 자신의 도메인 &amp;ldquo;만&amp;rdquo; 입력한다. 그리고 도메인 업체에서 dns를 바꿔줘야 하는 데 이때 a레코드에는 각&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>내 두 번째 글</title>
+      <link>http://localhost:1313/posts/%EB%82%B4-%EB%91%90-%EB%B2%88%EC%A7%B8-%EA%B8%80/</link>
+      <pubDate>Thu, 05 Jun 2025 10:19:06 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%EB%82%B4-%EB%91%90-%EB%B2%88%EC%A7%B8-%EA%B8%80/</guid>
+      <description>&lt;p&gt;오래간만에 4일 연속 휴일이다. 오늘은 학교가 개교기념일 + 학원 10주년 기념 방학, 내일은 현충일, 그 다음은 주말이다. 만세! 아무튼 오늘 집에서 간만에 밥버러지 된 기념으로 걸레질 한 번 했다. 뭐가 문제인지 모르겠으나 giscus에 댓글이 달리지 않는다. 조만간 고쳐보겠다.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>내 첫 번째 글</title>
-      <link>https://powwow78.github.io/posts/%EB%82%B4-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B8%80/</link>
+      <link>http://localhost:1313/posts/%EB%82%B4-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B8%80/</link>
       <pubDate>Wed, 04 Jun 2025 21:25:15 +0900</pubDate>
-      <guid>https://powwow78.github.io/posts/%EB%82%B4-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B8%80/</guid>
+      <guid>http://localhost:1313/posts/%EB%82%B4-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B8%80/</guid>
       <description>&lt;p&gt;처음으로 찐찐찐 최종으로 블로그를 만들었다. 전에 써본게 워드프레스, 지킬이 있다. 근데 워드프레스와 지킬은 뭔가 마음에 안들었는데 hugo로 넘어오니 이제야 완전히 마음이 편안하다. 사실 지금 나오고 있는 블로그가 8트만에 배포를 성공 한 것이다. 그리고 아직 마크다운 문법에 익숙하지 않기 때문에 당분간은 글이 투박할 예정이다.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://powwow78.github.io/posts/test/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Wed, 04 Jun 2025 20:41:38 +0900</pubDate>
-      <guid>https://powwow78.github.io/posts/test/</guid>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>&lt;p&gt;test&#xA;&lt;strong&gt;test&lt;/strong&gt;&#xA;&lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-test&#34; data-lang=&#34;test&#34;&gt;test &#xA;&amp;lt;/pre&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
