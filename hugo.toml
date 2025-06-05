@@ -11,10 +11,10 @@ theme = 'hugo-discaptive'
   # https://giscus.app
   [params.giscus]
   repo = "powwow78/powwow78.github.io"
-  repoId = "R_kgDOO15o6w"
+  repoId = "R_kgDOO16xow"
   category = "General"
-  categoryId = "DIC_kwDOO15o6w4CbvR9"
-  mapping = "pathname"
+  categoryId = "DIC_kwDOO16xo84CrBpo"
+  mapping = "url"
   reactionsEnabled = "1"
   inputPosition = "bottom"
   theme = "light"
