@@ -2,6 +2,7 @@
 date = '2025-06-06T10:21:37+09:00'
 draft = false
 title = 'About'
+type = 'page'
 +++
 
 **그저 뭔가 이상한거는 다 하는 학생입니다!**
