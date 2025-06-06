@@ -6,8 +6,15 @@
     <description>Recent content in Posts on 파우와우의 블로그</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Jun 2025 12:40:15 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 10:10:27 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>내 세 번째 글</title>
+      <link>http://localhost:1313/posts/%EB%82%B4-%EC%84%B8-%EB%B2%88%EC%A7%B8-%EA%B8%80/</link>
+      <pubDate>Fri, 06 Jun 2025 10:10:27 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%EB%82%B4-%EC%84%B8-%EB%B2%88%EC%A7%B8-%EA%B8%80/</guid>
+      <description>&lt;p&gt;어제 쓴 포스팅에 댓글 기능을 고쳐두겠다고 한 게 있었는데, 설정 파일에 url을 pathname으로 잘못 적었더라. 다시 url로 수정하고 나서 해보니 잘 작동한다.&lt;/p&gt;&#xA;&lt;p&gt;과학선생님이 6월 프로젝트라며 달 사진을 찍어오라고 하신다. 그러나 우리 집에서는 달이 내 코딱지만큼도 보이지 않는다. 우리 집에서 마지막으로 달을 본게 작년 광복절이었다.&lt;/p&gt;&#xA;&lt;p&gt;오늘은 블로그 상단에 있는 tag, about에 글을 써 넣을 것이다.&lt;/p&gt;&#xA;&lt;p&gt;오늘은 진짜 쓸 말이 없다&amp;hellip;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>깃허브 커스텀 도메인 연결하는 법</title>
       <link>http://localhost:1313/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B2%95/</link>

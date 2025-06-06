@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-05T12:40:15+09:00</lastmod>
+    <lastmod>2025-06-06T10:10:27+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B2%95/</loc>
-    <lastmod>2025-06-05T12:40:15+09:00</lastmod>
+    <loc>http://localhost:1313/posts/%EB%82%B4-%EC%84%B8-%EB%B2%88%EC%A7%B8-%EA%B8%80/</loc>
+    <lastmod>2025-06-06T10:10:27+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-06T10:10:27+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B2%95/</loc>
     <lastmod>2025-06-05T12:40:15+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/%EB%82%B4-%EB%91%90-%EB%B2%88%EC%A7%B8-%EA%B8%80/</loc>
