@@ -1,0 +1,3 @@
+[submodule "themes/PaperMod"]
+    path = themes/PaperMod
+    url = https://github.com/powwow78/comment.git
