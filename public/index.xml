@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>파우와우의 블로그</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 파우와우의 블로그</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jun 2025 20:16:20 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>진짜 첫 글</title>
+      <link>http://localhost:1313/posts/%EC%A7%84%EC%A7%9C-%EC%B2%AB-%EA%B8%80/</link>
+      <pubDate>Thu, 26 Jun 2025 20:16:20 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%EC%A7%84%EC%A7%9C-%EC%B2%AB-%EA%B8%80/</guid>
+      <description>&lt;p&gt;블로그를 만들고 겨우 글을 쓴다. 솔직히 말해 이제 뭐라고 쓸지도 모르겠다. 그리고 며칠 전에 젤리를 먹는데 운좋개도 하나에 두 개의 젤리가 있었다.
+&lt;img alt=&#34;운빨 디졌네&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/wow.jpg&#34;&gt;
+&lt;img alt=&#34;운빨 미쳤네&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/wow1.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>test1</title>
+      <link>http://localhost:1313/posts/test1/</link>
+      <pubDate>Sun, 22 Jun 2025 09:32:10 +0900</pubDate>
+      <guid>http://localhost:1313/posts/test1/</guid>
+      <description>&lt;p&gt;test1234&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>내 첫 번째 글</title>
+      <link>http://localhost:1313/posts/%EB%82%B4-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B8%80/</link>
+      <pubDate>Sun, 22 Jun 2025 09:32:10 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%EB%82%B4-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EA%B8%80/</guid>
+      <description>&lt;p&gt;찐찐찐찐찐찐찐막으로 블로그를 완성했다. 이럴거면 워드프레스 썼지&amp;hellip;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sun, 22 Jun 2025 09:10:01 +0900</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
